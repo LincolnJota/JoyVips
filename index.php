@@ -1,3 +1,12 @@
+<!--
+
+ * This file is part of a JoyGDR project
+ *
+ * Copyright (c) JoyGDR
+ * https://github.com/lincolnjota
+ */
+
+-->
 <?php
 
 include("Modules/Mercado-Pago/products.php");
