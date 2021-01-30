@@ -8,6 +8,4 @@ return (object) array(
     'database' => 'vips',
 );
 
-//SELECT * FROM `keylist`WHERE serials = 1233192802
-
 ?> 
