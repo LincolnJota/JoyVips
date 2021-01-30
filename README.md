@@ -1,3 +1,3 @@
 ## JoyVips
 
-A advanced script for activate vips in our server!
+Activate your vip with payment id directly on the server! 
